@@ -53,11 +53,7 @@
     - You can view all saved books under your user profile or via the relevant GraphQL query.
 
 ## Credits
-- GraphQL: GraphQL for efficient data querying.
-- JWT: JSON Web Tokens for secure authentication.
-- MongoDB: MongoDB for the NoSQL database.
-- Mongoose: Mongoose for MongoDB object modeling.
-- Apollo Server: Apollo Server for building the GraphQL API.
+-phil, dylan, aley, sidhuad
 
 ## License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. https://choosealicense.com/licenses/mit/
