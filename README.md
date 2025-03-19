@@ -24,7 +24,7 @@
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/sidhuad/booksearchengine.git
+    git@github.com:HMasese/book-search.git
     cd booksearchengine
     ```
 2. Install Dependencies: Run the following command to install the required Node.js dependencies:
